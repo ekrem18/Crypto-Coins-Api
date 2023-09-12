@@ -1,5 +1,4 @@
 
-
 :root {
     --bg_main: #334c62;
     --text_light: #fff;
@@ -198,7 +197,7 @@
   
   /* FOOTER
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
-  .page-footer {
+  /* .page-footer {
     text-align: right;
     font-size: 1rem;
     color: var(--text_light);
@@ -213,7 +212,7 @@
     width: 100px;
     height: 100px;
   }
-  
+   */
   /* MQ
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
   @media screen and (max-width: 1000px) {
